@@ -112,3 +112,10 @@ Inicio del README
  - Si quieres omitir un commit: git rebase --skip
 
 
+
+### Update bugFix
+ - git checkout bugFix
+ - git rebase bugFixDos
+ - git push origin bugFix
+ - Esto mostrará de manera linear los cambios de bugFixDos en bugFix
+
