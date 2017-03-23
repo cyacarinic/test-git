@@ -171,7 +171,17 @@ Inicio del README
 
 
 
+
 ### Actualizar rebase en master
  - git checkout master
  - git rebase bugFixTres
  - git push origin master
+
+
+### Update bugFix
+ - git checkout bugFix
+ - git rebase bugFixDos
+ - git push origin bugFix
+ - Esto mostrará de manera linear los cambios de bugFixDos en bugFix
+
+
