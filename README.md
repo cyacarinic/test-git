@@ -32,3 +32,10 @@ Inicio del README
  - git add .
  - git commit -m "BFT0"
  - git push origin bugFixTres
+
+
+### Mas commits a BFT
+ - Editar Readme
+ - git add .
+ - git commit -m "BFT1"
+ - git push origin bugFixTres
