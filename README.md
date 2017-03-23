@@ -51,6 +51,15 @@ Inicio del README
 
 
 
+### Mas commits a la rama
+ - git checkout bugFix
+ - Editar Readme
+ - git add .
+ - git commit -m "BF2"
+ - git push origin bugFix
+
+
+
 ### Mas commits a BFD
  - git checkout bugFixDos
  - Editar Readme
@@ -66,12 +75,13 @@ Inicio del README
  - git push origin bugFixDos
 
 
-### Mas commits a la rama
- - git checkout bugFix
- - Editar Readme
+### Merge bugFixDos en bugFix
+ - git checkout bugFixDos
+ - Edit Readme
  - git add .
- - git commit -m "BF2"
- - git push origin bugFix
+ - git merge bugFix
+
+
 
 ### Mas commits a la rama luego de merge
  - git checkout bugFix
