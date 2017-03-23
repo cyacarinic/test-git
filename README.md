@@ -38,18 +38,10 @@ Inicio del README
 ### Nueva rama
  - git checkout -b bugFixDos
  - Editar Readme
- - Crear dir
+ - Crear file
  - git add .
  - git commit -m "BFD0"
  - git push origin bugFixDos
-
-
-### Mas commits a BFD
- - Editar Readme
- - git add .
- - git commit -m "BFD1"
- - git push origin bugFixDos
-
 
 
 ### Mas commits a la rama
@@ -58,32 +50,6 @@ Inicio del README
  - git add .
  - git commit -m "BF2"
  - git push origin bugFix
-
-
-
-### Mas commits a BFD
- - git checkout bugFixDos
- - Editar Readme
- - git add .
- - git commit -m "BFD2"
- - git push origin bugFixDos
-
-
-### Corregit BFD
- - Fix Readme
- - git add .
- - git commit -m "BFD3"
- - git push origin bugFixDos
-
-
-### Merge bugFixDos en bugFix
- - git checkout bugFixDos
- - Edit Readme
- - git add .
- - git commit -m "BFD3 - Merge BF"
- - git merge bugFix
-
-
 
 ### Mas commits a la rama luego de merge
  - git checkout bugFix
