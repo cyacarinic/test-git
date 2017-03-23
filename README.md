@@ -96,3 +96,12 @@ Inicio del README
  - git add .
  - git commit -m "BF4"
  - git push origin bugFix
+
+
+### Rebase bugFixDos en bugFix
+ - git checkout bugFixDos
+ - Edit Readme
+ - git add .
+ - git commit -m "BFD4 - Merge BF"
+ - git rebase bugFix
+
