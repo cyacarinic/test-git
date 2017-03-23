@@ -39,3 +39,10 @@ Inicio del README
  - git add .
  - git commit -m "BF2"
  - git push origin bugFix
+
+### Mas commits a la rama luego de merge
+ - git checkout bugFix
+ - Editar Readme
+ - git add .
+ - git commit -m "BF3"
+ - git push origin bugFix
