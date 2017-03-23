@@ -67,3 +67,9 @@ Inicio del README
  - Resolver conflictos (git add . && git rebase --continue)
  - Omitir con git rebase --skip
  - Cancelar con git rebase --abort
+
+
+### Actualizar rebase en master
+ - git checkout master
+ - git rebase bugFixTres
+ - git push origin master
