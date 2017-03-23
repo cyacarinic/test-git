@@ -193,3 +193,6 @@ Inicio del README
  - Update readme
  - git add .
  - git commit -m "BFD5 - git merge bugFix"
+ - git push origin bugFixDos
+
+
