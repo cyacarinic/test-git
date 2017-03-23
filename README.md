@@ -34,6 +34,16 @@ Inicio del README
  - git commit -m "BF1"
  - git push origin bugFix
 
+
+### Nueva rama
+ - git checkout -b bugFixDos
+ - Editar Readme
+ - Crear file
+ - git add .
+ - git commit -m "BFD0"
+ - git push origin bugFixDos
+
+
 ### Mas commits a la rama
  - git checkout bugFix
  - Editar Readme
@@ -53,6 +63,10 @@ Inicio del README
  - git add .
  - git commit -m "BF4"
  - git push origin bugFix
+
+
+
+
 ### Nueva rama
  - git checkout -b bugFixDos
  - Editar Readme
