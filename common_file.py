@@ -4,8 +4,9 @@
 3.- tercero master
 
 
-5.- primero other feature
 
+5.- primero other feature
+8.- segundo other feature
 
 9.- cuarto master
 10.- quinto master
