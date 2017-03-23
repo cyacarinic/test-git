@@ -20,6 +20,8 @@ Inicio del README
  - git push origin master
 
 
+
+
 ### Nueva rama
  - git checkout -b bugFix
  - Editar Readme
@@ -35,6 +37,7 @@ Inicio del README
  - git push origin bugFix
 
 
+
 ### Nueva rama
  - git checkout -b bugFixDos
  - Editar Readme
@@ -44,8 +47,7 @@ Inicio del README
  - git push origin bugFixDos
 
 
-### Mas commits a la rama
- - git checkout bugFix
+### Mas commits a BFD
  - Editar Readme
  - git add .
  - git commit -m "BF2"
@@ -131,6 +133,7 @@ Inicio del README
 
 
 
+
 ### Mas commits para Master
  - git checkout master
  - Editar Readme
@@ -154,6 +157,18 @@ Inicio del README
  - Resolver conflictos (git add . && git rebase --continue)
  - Omitir con git rebase --skip
  - Cancelar con git rebase --abort
+
+
+### Rebase bugFixDos en bugFix
+ - git checkout bugFixDos
+ - Edit Readme
+ - git add .
+ - git commit -m "BFD4 - Merge BF"
+ - git rebase bugFix
+ - Resolver conflictos conforme se apliquen los commits (git add . && git rebase --continue)
+ - Si ocurre un error: git rebase --abort
+ - Si quieres omitir un commit: git rebase --skip
+
 
 
 ### Actualizar rebase en master
