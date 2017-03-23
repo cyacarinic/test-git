@@ -59,3 +59,10 @@ Inicio del README
  - git add .
  - git commit -m "BFD3"
  - git push origin bugFixDos
+
+### Merge bugFixDos en bugFix
+ - git checkout bugFixDos
+ - Edit Readme
+ - git add .
+ - git merge bugFix
+ - 
