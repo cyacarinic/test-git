@@ -185,3 +185,11 @@ Inicio del README
  - Esto mostrará de manera linear los cambios de bugFixDos en bugFix
 
 
+
+
+### Merge bugFix en bugFixDos
+ - git checkout bugFixDos
+ - git merge bugFix
+ - Update readme
+ - git add .
+ - git commit -m "BFD5 - git merge bugFix"
