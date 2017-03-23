@@ -1,14 +1,21 @@
 Inicio del README
 =================
 
-### En master
+### En master
  - Editar README
  - git add .
  - git commit -m "First commit"
  - git push oirigin master
 
-### En master
+### En master
  - Fix README
  - git add .
  - git commit -m "M0"
- - git push oirigin master
+ - git push origin master
+
+### En master
+ - Fix README
+ - git add .
+ - git commit -m "M1"
+ - git push origin master
+
