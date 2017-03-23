@@ -43,6 +43,7 @@ Inicio del README
 
 
 
+
 ### Mas commits para Master
  - git checkout master
  - Editar Readme
@@ -66,5 +67,3 @@ Inicio del README
  - Resolver conflictos (git add . && git rebase --continue)
  - Omitir con git rebase --skip
  - Cancelar con git rebase --abort
-
-
