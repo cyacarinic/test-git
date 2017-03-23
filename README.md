@@ -220,6 +220,3 @@ Inicio del README
  - git rebase bugFix
  - solve
  - git push origin bugFixDos
-
-
-
