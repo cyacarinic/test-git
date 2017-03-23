@@ -50,6 +50,14 @@ Inicio del README
  - git commit -m "BFD1"
  - git push origin bugFixDos
 
+### Mas commits a BFD
+ - Editar Readme
+ - git add .
+ - git commit -m "BFD2"
+ - git push origin bugFixDos
+
+
+
 
 ### Actualizar Master
  - git checkout master
