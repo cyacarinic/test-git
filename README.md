@@ -52,6 +52,13 @@ Inicio del README
 
 
 
+### Mas commits a BFD
+ - Editar Readme
+ - git add .
+ - git commit -m "BFD2"
+ - git push origin bugFixDos
+
+
 ### Mas commits a la rama
  - git checkout bugFix
  - Editar Readme
