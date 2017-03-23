@@ -25,3 +25,10 @@ Inicio del README
  - git add .
  - git commit -m "M2"
  - git push origin master
+
+### Nueva rama
+ - git checkout -b bugFixTres
+ - Editar Readme
+ - git add .
+ - git commit -m "BFT0"
+ - git push origin bugFixTres
