@@ -60,10 +60,18 @@ Inicio del README
  - git commit -m "BFD3"
  - git push origin bugFixDos
 
+
+### Mas commits a la rama
+ - git checkout bugFix
+ - Editar Readme
+ - git add .
+ - git commit -m "BF2"
+ - git push origin bugFix
+
 ### Merge bugFixDos en bugFix
  - git checkout bugFixDos
  - Edit Readme
  - git add .
  - git commit -m "BFD3 - Merge BF"
  - git merge bugFix
- - 
+
