@@ -80,6 +80,7 @@ Inicio del README
  - git checkout bugFixDos
  - Edit Readme
  - git add .
+ - git commit -m "BFD3 - Merge BF"
  - git merge bugFix
 
 
