@@ -8,6 +8,7 @@
 5.- primero other feature
 
 6.- segundo feature
+7.- tercero feature
 
 8.- segundo other feature
 
