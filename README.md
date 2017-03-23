@@ -130,3 +130,18 @@ Inicio del README
  - git push origin bugFixDos
 
 
+
+
+### Rebase bugFixDos en bugFix
+ - git checkout bugFixDos
+ - git rebase bugFix
+ - solve
+ - git push origin bugFixDos
+
+
+
+
+
+
+
+
