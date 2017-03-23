@@ -26,8 +26,11 @@ Inicio del README
  - git commit -m "M2"
  - git push origin master
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c18490de5dcf565f39656336470e384f397da90e
 ### Nueva rama
  - git checkout -b bugFixTres
  - Editar Readme
@@ -35,10 +38,15 @@ Inicio del README
  - git commit -m "BFT0"
  - git push origin bugFixTres
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c18490de5dcf565f39656336470e384f397da90e
 ### Mas commits a BFT
  - Editar Readme
  - git add .
  - git commit -m "BFT1"
+<<<<<<< HEAD
  - git push origin bugFixTres
 
 
@@ -67,3 +75,6 @@ Inicio del README
  - Resolver conflictos (git add . && git rebase --continue)
  - Omitir con git rebase --skip
  - Cancelar con git rebase --abort
+=======
+ - git push origin bugFixTres
+>>>>>>> c18490de5dcf565f39656336470e384f397da90e
