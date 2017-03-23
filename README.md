@@ -196,3 +196,10 @@ Inicio del README
  - git push origin bugFixDos
 
 
+### Merge bugFixDos en bugFix
+ - git checkout bugFix
+ - git merge bugFixDos
+ - Update readme
+ - git add .
+ - git commit -m "BF5 - git merge bugFixDos"
+ - git push origin bugFix
