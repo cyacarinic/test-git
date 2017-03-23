@@ -27,6 +27,12 @@ Inicio del README
  - git commit -m "BF0"
  - git push origin bugFix
 
+### Mas commits a la rama
+ - Crear file
+ - git add .
+ - git commit -m "BF1"
+ - git push origin bugFix
+
 
 
 ### Actualizar Master
