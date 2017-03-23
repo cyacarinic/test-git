@@ -19,6 +19,8 @@ Inicio del README
  - git commit -m "M1"
  - git push origin master
 
+
+
 ### Nueva rama
  - git checkout -b bugFix
  - Editar Readme
@@ -34,6 +36,7 @@ Inicio del README
  - git push origin bugFix
 
 
+
 ### Nueva rama
  - git checkout -b bugFixDos
  - Editar Readme
@@ -41,7 +44,6 @@ Inicio del README
  - git add .
  - git commit -m "BFD0"
  - git push origin bugFixDos
-
 
 ### Mas commits a BFD
  - Editar Readme
@@ -67,12 +69,12 @@ Inicio del README
  - git commit -m "BFD2"
  - git push origin bugFixDos
 
-
 ### Corregit BFD
  - Fix Readme
  - git add .
  - git commit -m "BFD3"
  - git push origin bugFixDos
+
 
 
 ### Merge bugFixDos en bugFix
@@ -98,10 +100,15 @@ Inicio del README
  - git push origin bugFix
 
 
+
 ### Rebase bugFixDos en bugFix
  - git checkout bugFixDos
  - Edit Readme
  - git add .
  - git commit -m "BFD4 - Merge BF"
  - git rebase bugFix
+ - Resolver conflictos conforme se apliquen los commits (git add . && git rebase --continue)
+ - Si ocurre un error: git rebase --abort
+ - Si quieres omitir un commit: git rebase --skip
+
 
