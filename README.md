@@ -19,3 +19,9 @@ Inicio del README
  - git commit -m "M1"
  - git push origin master
 
+### Actualizar Master
+ - git checkout master
+ - Editar Readme
+ - git add .
+ - git commit -m "M2"
+ - git push origin master
