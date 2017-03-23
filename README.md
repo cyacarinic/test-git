@@ -36,7 +36,13 @@ Inicio del README
 ### Nueva rama
  - git checkout -b bugFixDos
  - Editar Readme
- - Crear file
+ - Crear dir
  - git add .
  - git commit -m "BFD0"
+ - git push origin bugFixDos
+
+### Mas commits a BFD
+ - Editar Readme
+ - git add .
+ - git commit -m "BFD1"
  - git push origin bugFixDos
