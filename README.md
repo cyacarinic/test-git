@@ -34,6 +34,12 @@ Inicio del README
  - git commit -m "BF1"
  - git push origin bugFix
 
+### Mas commits a la rama
+ - git checkout bugFix
+ - Editar Readme
+ - git add .
+ - git commit -m "BF2"
+ - git push origin bugFix
 
 
 ### Nueva rama
