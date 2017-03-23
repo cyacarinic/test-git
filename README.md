@@ -71,12 +71,21 @@ Inicio del README
 
 
 
+
 ### Actualizar Master
  - git checkout master
  - Editar Readme
  - git add .
  - git commit -m "M2"
  - git push origin master
+
+
+### Merge bugFixDos en bugFix
+ - git checkout bugFixDos
+ - Edit Readme
+ - git add .
+ - git merge bugFix
+
 
 
 
